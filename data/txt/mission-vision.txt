@@ -1,0 +1,26 @@
+Mission and Vision
+<p> <span style="font-family: georgia, serif; font-size: 14px; line-height: 22px; background-color:#ffffff">
+Many Children lives in slums of major cities. We call them future of the country. Really? There own parents don't care about there future. These childeren  have no motive to
+               live, except eating sleeping and slum life. Our organization
+               took a steps to create a hope for these childern. A step for
+               education. Our mission is to provide education to these children.
+               We are working very hard for there better future and future of
+               India.
+</span> </p>
+<p align = "Left">
+           <span style= "font-weight:bold; background-color:#ffffff">
+                Mission statement :-- 
+            </span></p>
+               <p align = "Left"><span style="font-family: georgia, serif;
+                   font-size: 14px; line-height: 22px;background-color:#ffffff;">
+                Our mission is to provide education to children living in slum.
+                </span></p>
+
+               <p align = "Left"><span style= "font-weight:bold ;background-color:#ffffff;">
+                Vision :--
+            </span></p>
+               <p align = "Left"> <span style="font-family: georgia, serif;
+                   font-size: 14px; line-height: 22px; background-color:#ffffff;">
+               To help these children contribute towards nation development.
+           </span></p>
+ 
